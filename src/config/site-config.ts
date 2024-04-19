@@ -14,7 +14,7 @@ export const siteConfig: Metadata = {
   title: TITLE,
   description: DESCRIPTION,
   icons: {
-    icon: '/favicon.png',
+    icon: '/favicon.png ',
   },
   applicationName: '100xdevs',
   creator: 'Harkirat',
